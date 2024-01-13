@@ -33,7 +33,7 @@ const TravelEnquire =  async (req, res) => {
       const mailOptions = {
           from: process.env.EMAIL,
           to: Email ,  
-          subject: "Conformation",
+          subject: "Confirmation",
           html: `
     
           <div style="height: auto; width:100% ;backgroud-color:white;">
@@ -43,9 +43,10 @@ const TravelEnquire =  async (req, res) => {
           
           <br />
           <br />
-          <div style="text-align: center;"><h2>Thanks For Choosing Kanesmithtravels</h2></div>
+          <div style="text-align: center;"><h2>Thanks For Choosing  Kane Smith Travels</h2></div>
           <br>
-          <div style="text-align: center;">Welcome to Kanesmithtravels Ooty</div>
+          <div style="text-align: center;">Welcome to  Kane Smith Travels Ooty</div>
+          <div style="text-align: center;">Our team will contact you soon.</div>
             <br>
             <div style="width: 100%; text-align: center;"><h2>Customer Information</h2></div>
             <br>
@@ -99,9 +100,10 @@ const TravelEnquire =  async (req, res) => {
         
         <br />
         <br />
-        <div style="text-align: center;"><h2>Thanks For Choosing Kanesmithtravels</h2></div>
+        <div style="text-align: center;"><h2>Thanks For Choosing  Kane Smith Travels</h2></div>
         <br>
-        <div style="text-align: center;">Welcome to Kanesmithtravels Ooty</div>
+        <div style="text-align: center;">Welcome to  Kane Smith Travels Ooty</div>
+        <div style="text-align: center;">Our team will contact you soon.</div>
           <br>
           <div style="width: 100%; text-align: center;"><h2>Customer Information</h2></div>
           <br>
@@ -178,7 +180,7 @@ const TravelEnquire =  async (req, res) => {
       const mailOptions = {
           from: process.env.EMAIL,
           to: Email ,  
-          subject: "Conformation",
+          subject: "Confirmation",
           html: `
     
           <div style="height: auto; width:100% ;backgroud-color:white;">
@@ -187,9 +189,10 @@ const TravelEnquire =  async (req, res) => {
           <div style="text-align: center;"><img src="https://i.postimg.cc/j2Spwxb0/Rectangle-3.png" style="width: 100%; height : 30vh;"></div>
           <br />
           <br />
-          <div style="text-align: center;"><h2>Thanks For Choosing Kanesmithtravels</h2></div>
+          <div style="text-align: center;"><h2>Thanks For Choosing  Kane Smith Travels</h2></div>
           <br>
-          <div style="text-align: center;">Welcome to Kanesmithtravels Ooty</div>
+          <div style="text-align: center;">Welcome to  Kane Smith Travels Ooty</div>
+          <div style="text-align: center;">Our team will contact you soon.</div>
             <br>
             <div style="width: 100%; text-align: center;"><h2>Customer Information</h2></div>
             <br>
@@ -238,9 +241,10 @@ const TravelEnquire =  async (req, res) => {
         <div style="text-align: center;"><img src="https://i.postimg.cc/j2Spwxb0/Rectangle-3.png" style="width: 100%; height : 30vh;"></div>
         <br />
         <br />
-        <div style="text-align: center;"><h2>Thanks For Choosing Kanesmithtravels</h2></div>
+        <div style="text-align: center;"><h2>Thanks For Choosing  Kane Smith Travels</h2></div>
         <br>
-        <div style="text-align: center;">Welcome to Kanesmithtravels Ooty</div>
+        <div style="text-align: center;">Welcome to  Kane Smith Travels Ooty</div>
+        <div style="text-align: center;">Our team will contact you soon.</div>
           <br>
           <div style="width: 100%; text-align: center;"><h2>Customer Information</h2></div>
           <br>
