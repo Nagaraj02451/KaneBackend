@@ -89,7 +89,7 @@ const TravelEnquire =  async (req, res) => {
     
       const mailOptionsB = {
         from: process.env.EMAIL,
-        to: "enquiry.kanesmithtravels@gmail.com" ,  
+        to: "enquiry.kanesmithtravelsooty@gmail.com" ,  
         subject: "Customer details",
         html: `
     
@@ -231,7 +231,7 @@ const TravelEnquire =  async (req, res) => {
     
       const mailOptionsB = {
         from: process.env.EMAIL,
-        to: "enquiry.kanesmithtravels@gmail.com" ,  
+        to: "enquiry.kanesmithtravelsooty@gmail.com" ,  
         subject: "Customer details",
         html: `
     
